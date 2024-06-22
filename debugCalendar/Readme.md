@@ -1,4 +1,4 @@
-# ** Calendar Program**
+# Calendar Program
 ## Description
 The Calendar Program allows users to book events without the risk of double bookings. Events are represented as intervals [start, end], where the start time is inclusive and the end time is exclusive.
 
